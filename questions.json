@@ -1,0 +1,690 @@
+{
+  "heading": "select a topic",
+  "topics": [
+    {
+      "heading": "Adverbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word in this sentence is an adverb? <br>The dog barked loudly at the mailman.",
+          "options": [
+            {
+              "text": "Dog"
+            },
+            {
+              "text": "Barked"
+            },
+            {
+              "text": "Loudly"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence has an adverb?",
+          "options": [
+            {
+              "text": "The baby slept peacefully."
+            },
+            {
+              "text": "The cat is sleeping."
+            },
+            {
+              "text": "The boy eats apples."
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "What is the adverb in this sentence?<br> He spoke softly to his friend.",
+          "options": [
+            {
+              "text": "He"
+            },
+            {
+              "text": "Softly"
+            },
+            {
+              "text": "Friend"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the adverb that completes this sentence:<br> \"The rabbit jumped ______ into the hole.\"",
+          "options": [
+            {
+              "text": "Beautiful"
+            },
+            {
+              "text": "Slowly"
+            },
+            {
+              "text": "Soft"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "Pick the adverb that best fits this sentence:<br> \"Ben writes his homework ______ every day.\"",
+          "options": [
+            {
+              "text": "Carefully"
+            },
+            {
+              "text": "Careful"
+            },
+            {
+              "text": "Cares"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Prefix and Suffix",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "What does the word \"redo\" mean?",
+          "options": [
+            {
+              "text": "Do something again"
+            },
+            {
+              "text": "Do something wrong"
+            },
+            {
+              "text": "Do something before"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "What does the word \"preheat\" mean?",
+          "options": [
+            {
+              "text": "To heat again"
+            },
+            {
+              "text": "To heat before"
+            },
+            {
+              "text": "To heat too much"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "What does \"joyful\" mean?",
+          "options": [
+            {
+              "text": "Without joy"
+            },
+            {
+              "text": "Full of joy"
+            },
+            {
+              "text": "Joy before"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "What does \"misread\" mean?",
+          "options": [
+            {
+              "text": "To read again"
+            },
+            {
+              "text": "To read before"
+            },
+            {
+              "text": "To read wrongly"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "What does the word \"fearless\" mean?",
+          "options": [
+            {
+              "text": "Without fear"
+            },
+            {
+              "text": "Full of fear"
+            },
+            {
+              "text": "Fear again"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Homophones",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Select the homophone of \"wait.\"<br> Please wait for me.",
+          "options": [
+            {
+              "text": "Weight"
+            },
+            {
+              "text": "Water"
+            },
+            {
+              "text": "What"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word completes this sentence?<br> \"My little sister has just learned how to ______.\"",
+          "options": [
+            {
+              "text": "Write"
+            },
+            {
+              "text": "Right"
+            },
+            {
+              "text": "Rite"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the right homophone:<br> The heavy ____ of the box surprised me.",
+          "options": [
+            {
+              "text": "Wait"
+            },
+            {
+              "text": "Weight"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Select the homophone of \"write.\"<br> I will write a letter.",
+          "options": [
+            {
+              "text": "Sight"
+            },
+            {
+              "text": "Fight"
+            },
+            {
+              "text": "Right"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word completes this sentence?<br> \"I will write a thank-you ______ for my teacher.\"",
+          "options": [
+            {
+              "text": "Note"
+            },
+            {
+              "text": "Knot"
+            },
+            {
+              "text": "Not"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Adjective v/s Adverb",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "Which word describes how the rabbit runs?<br> \"The rabbit runs ______.\"",
+          "options": [
+            {
+              "text": "Fast"
+            },
+            {
+              "text": "Fluffy"
+            },
+            {
+              "text": "Soft"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word describes the cake?<br> \"The cake is ______.\"",
+          "options": [
+            {
+              "text": "Quickly"
+            },
+            {
+              "text": "Delicious"
+            },
+            {
+              "text": "Slowly"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "Identify the word that is an adverb:",
+          "options": [
+            {
+              "text": "Small"
+            },
+            {
+              "text": "Loudly"
+            },
+            {
+              "text": "Elephant"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "Identify the word that is an adjective:",
+          "options": [
+            {
+              "text": "Large"
+            },
+            {
+              "text": "Sing"
+            },
+            {
+              "text": "Beautifully"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word describes how the cat moves?<br> \"The cat moves ______.\"",
+          "options": [
+            {
+              "text": "Graceful"
+            },
+            {
+              "text": "Clever"
+            },
+            {
+              "text": "Gracefully"
+            }
+          ],
+          "answer": 2
+        }
+      ]
+      
+    },
+    {
+      "heading": "Comparative and Superlative Adjectives",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Choose the correct comparative form of the adjective: <br>Tom is ______ than Jerry.",
+          "options": [
+            {
+              "text": "Fast"
+            },
+            {
+              "text": "Faster"
+            },
+            {
+              "text": "Fastest"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 22,
+          "question": "Which sentence uses a superlative adjective correctly?",
+          "options": [
+            {
+              "text": "She is the tallest girl in her class."
+            },
+            {
+              "text": "She is taller than her sister."
+            },
+            {
+              "text": "She is tall."
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 23,
+          "question": "What is the superlative form of the adjective \"small\"?",
+          "options": [
+            {
+              "text": "Smaller"
+            },
+            {
+              "text": "Smallest"
+            },
+            {
+              "text": "Small"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 24,
+          "question": "What is the comparative form of the word \"happy\"?",
+          "options": [
+            {
+              "text": "Happier"
+            },
+            {
+              "text": "Happiest"
+            },
+            {
+              "text": "Happy"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of these uses a comparative adjective correctly?",
+          "options": [
+            {
+              "text": "This cake is sweeter than the other one."
+            },
+            {
+              "text": "This cake is sweet."
+            },
+            {
+              "text": "This is the sweetest cake in the bakery."
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Preposition",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "Complete the sentence to match the picture with the best preposition.<br><img width='40%' src='./assests/images/question/6.jpg'><br> The mouse is hiding ___ the bed.",
+          "options": [
+            {
+              "text": "In"
+            },
+            {
+              "text": "Under"
+            },
+            {
+              "text": "At"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 27,
+          "question": "Select the most appropriate preposition:<br> This book is _____ my sister.",
+          "options": [
+            {
+              "text": "At"
+            },
+            {
+              "text": "For"
+            },
+            {
+              "text": "Of"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          "question": "Complete the sentence to match the picture with the best preposition. <br><img width='40%' src='./assests/images/question/7.jpg'><br> The apples are ___ the basket.",
+          "options": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "Above"
+            },
+            {
+              "text": "In"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 29,
+          "question": "Select the most appropriate preposition:<br> My father is sleeping _____ the couch.",
+          "options": [
+            {
+              "text": "On"
+            },
+            {
+              "text": "In"
+            },
+            {
+              "text": "Of"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 30,
+          "question": "Select the most appropriate preposition:<br> The top _____ the cherry is very sweet.",
+          "options": [
+            {
+              "text": "Of"
+            },
+            {
+              "text": "In"
+            },
+            {
+              "text": "Above"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Conjunctions (Part 1)",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Complete the sentence with the correct conjunction:<br> I like apples ___ bananas.",
+          "options": [
+            {
+              "text": "Or"
+            },
+            {
+              "text": "And"
+            },
+            {
+              "text": "But"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 32,
+          "question": "Choose the correct conjunction for the sentence:<br> We can go to the park ___ we can stay home and watch TV.",
+          "options": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "Because"
+            },
+            {
+              "text": "Or"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 33,
+          "question": "Fill in the blank with the right conjunction:<br> Tom wanted to play outside, ___ it was raining.",
+          "options": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "And"
+            },
+            {
+              "text": "Or"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 34,
+          "question": "Choose the conjunction that best completes the sentence: <br>I stayed inside ___ it was very cold outside.",
+          "options": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "Because"
+            },
+            {
+              "text": "And"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 35,
+          "question": "Pick the correct conjunction to complete the sentence:<br> Do you want pizza ___ pasta for dinner?",
+          "options": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "Because"
+            },
+            {
+              "text": "Or"
+            }
+          ],
+          "answer": 2
+        }
+      ]
+      
+    },
+    {
+      "heading": "Conjunctions (Part 2)",
+      "questions": [
+        {
+          "questionNo": 36,
+          "question": "Complete the sentence with the correct conjunction:<br> I wore my raincoat ___ it was raining outside.",
+          "options": [
+            {
+              "text": "Since"
+            },
+            {
+              "text": "So"
+            },
+            {
+              "text": "Therefore"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 37,
+          "question": "Choose the best conjunction for the sentence:<br> It was very cold, ___ we decided to stay indoors.",
+          "options": [
+            {
+              "text": "Because"
+            },
+            {
+              "text": "So"
+            },
+            {
+              "text": "Since"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 38,
+          "question": "Fill in the blank with the right conjunction:<br> She couldn’t go to the park ___ she was feeling sick.",
+          "options": [
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "Because"
+            },
+            {
+              "text": "So"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 39,
+          "question": "Complete the sentence with the appropriate conjunction:<br> The road was slippery, ___ we drove very carefully.",
+          "options": [
+            {
+              "text": "Because"
+            },
+            {
+              "text": "Since"
+            },
+            {
+              "text": "So"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 40,
+          "question": "Fill in the blank with the correct conjunction:<br> He was very tired, ___ he went to bed early.",
+          "options": [
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "Since"
+            },
+            {
+              "text": "Because"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    }
+  ]
+}
